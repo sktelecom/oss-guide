@@ -38,7 +38,8 @@ SK텔레콤 **OSPO**(Open Source Program Office, 2020년 8월 기준, T3K Produc
   [3]: open/open.md
   
 ## 참고자료
-    이 문서는 다음 자료들을 참고하여 작성하였습니다.
+
+이 문서는 다음 자료들을 참고하여 작성하였습니다.
 
 !!! info ""
     * TODO Guides : [https://todogroup.org/guides/](https://todogroup.org/guides/)
